@@ -1,3 +1,4 @@
+________________________________________
 🔧 Advanced Data Cleaning with MS SQL Server
 
 Performed complete and advanced cleaning to ensure data accuracy, consistency, and integrity across over 1.5M records. This included fixing inconsistent values, handling missing data, unifying formats, correcting typos, removing duplicates, and standardizing naming conventions across all dimension and fact tables to prepare the dataset for accurate analysis.
